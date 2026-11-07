@@ -1,0 +1,5 @@
+recovery.img
+recovery.img-*
+ramdisk/
+unpacked/
+*.log
